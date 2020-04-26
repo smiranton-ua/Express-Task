@@ -10,6 +10,7 @@ Update the route so that users can pass in an optional "sort=" query param that 
 * 1 - sort ASC by track number
 * 2 - sort ASC by track name
 * 3 - sort ASC by track length
+* If no query param is passed in, the default is "1".
 
 
 ### Dependencies
