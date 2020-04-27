@@ -13,8 +13,8 @@ Update the route so that users can pass in an optional "sort=" query param that 
 * If no query param is passed in, the default is "1".
 
 
-### Getting started
+### Getting Started
 The [express-csv](https://www.npmjs.com/package/express-csv) library is included 
-as a dependency to aid with returning a CSV.
+as a dependency to aid with returning a CSV. `index.js` contains a "Hello World" Express server.
 * Install packages with `yarn install`
 * Start the server with `yarn start`
